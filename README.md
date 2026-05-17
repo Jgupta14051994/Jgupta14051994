@@ -2,7 +2,7 @@
 
 **Building products at the intersection of community, logistics, and trust.**
 
-San Francisco, CA · · [LinkedIn](https://linkedin.com/in/jyotigupta7) · jyotirgupta@gmail.com
+San Francisco, CA · [jyotigupta.dev](https://jyotigupta.dev) · [LinkedIn](https://linkedin.com/in/jyotigupta7) · jyotirgupta@gmail.com
 
 ---
 
