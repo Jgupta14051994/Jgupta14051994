@@ -1,71 +1,109 @@
-# Jyoti Gupta — Product Manager
+# Jyoti Gupta — AI Product Manager
 
-**Building products at the intersection of community, logistics, and trust.**
+**AI PM · 0→1 Builder · Shipping products that scale to millions.**
 
-San Francisco, CA · [Portfolio](https://jyoti-builds-scale.base44.app) · [LinkedIn](https://linkedin.com/in/jyotigupta7) · jyotirgupta1405@gmail.com
-
----
-
-## What I'm Building
-
-### CommuniEats — Community-Powered Last-Mile Delivery
-
-Reimagining delivery economics by matching orders with neighbors already traveling nearby.
-
-- **Model:** 3-tier fulfillment — Traditional / Self-Pickup (10% off) / Community Pickup (30% off)
-- **Core problem solved:** Every order currently creates its own trip. CommuniEats eliminates redundant logistics.
-- **Live product:** [communieats-app.vercel.app](https://communieats-app.vercel.app)
-- **Decision log & product thinking:** [Communityeats](https://github.com/Jgupta14051994/Communityeats)
-
-### OpenClaw PM Workflow — AI Agent for Product Managers
-
-Built a personal AI assistant with OpenClaw to automate real PM tasks — zero developers, one evening, real output.
-
-- **What I built:** Connected OpenClaw to GitHub and web search, configured with a custom SOUL.md persona file
-- **Key insight:** Context Window Steering — a well-written system prompt does 95% of the personalization work
-- **Tasks automated:** Competitive intelligence, PR/doc review, GitHub issue drafting, release notes
-- **Full writeup:** [openclaw-pm-workflow](https://github.com/Jgupta14051994/openclaw-pm-workflow)
-
----
-
-## Featured Repos
-
-| Repo | What's Inside |
-|---|---|
-| [openclaw-pm-workflow](https://github.com/Jgupta14051994/openclaw-pm-workflow) | How I built a personal AI assistant with OpenClaw to automate PM workflow — zero developers, one evening |
-| [Communityeats](https://github.com/Jgupta14051994/Communityeats) | Full product case study — problem framing, PRD, trust model, prioritization decisions |
-| [product-management-toolkit](https://github.com/Jgupta14051994/product-management-toolkit) | RICE scoring, PRD templates, OKRs, user interview guides, decision logs |
-| [AI-Discover](https://github.com/Jgupta14051994/AI-Discover) | AI tool discovery platform — spec, evaluation framework, integration patterns |
-
----
-
-## How I Work
-
-**Problem first, solution second.** I spent 3 iterations just framing the trust problem in CommuniEats before writing a single line of spec. The right problem statement is worth more than a fast roadmap.
-
-**Prioritization is a trade-off, not a score.** RICE and Kano help structure the conversation — they don't replace it.
-
-**Assumptions are liabilities until tested.** Every decision log I write ends with: *"What would prove this wrong?"*
-
----
-
-## PM Philosophy
-
-Clarity beats completeness. A simple, well-understood product beats a complex, perfect one every time.
-
-- Start with the user's actual behavior, not their stated preference
-- Document the *why* behind every decision — future-you will thank you
-- Speed of learning > speed of building
-- Cross-functional trust is a product's most underrated dependency
-
----
-
-## Currently Reading
-
-- *Inspired* — Marty Cagan
-- *The Mom Test* — Rob Fitzpatrick
-- *Lean Product Playbook* — Dan Olsen
-
----
-
-*Open to PM roles, collaboration, and conversations about marketplace dynamics, trust models, and community-driven products.*
+> 7+ years building enterprise SaaS, AI-powered features, and consumer products across D2C and Fortune 500 platforms.
+>
+> San Francisco, CA · [Portfolio](https://jyoti-builds-scale.base44.app) · [LinkedIn](https://linkedin.com/in/jyotigupta7) · [Newsletter](https://lnkd.in/efsRBVVQ) · jyotirgupta1405@gmail.com
+>
+> ---
+>
+> ## 🏆 Impact Highlights
+>
+> | Metric | Result |
+> |---|---|
+> | Black Friday YoY Revenue Growth | **+54%** at Maxwood Furniture |
+> | Monthly Users Reached | **1.78M** via e-commerce platform |
+> | Incremental Revenue Shipped | **$100K+** from upsell suite |
+> | Fortune 500 Clients Served | **10+** at GEP Worldwide |
+> | Customer Interviews Run | **50+** at GEP |
+> | Newsletter Subscribers | **800+** practitioners (Product in the AI Era) |
+> | PMI Global Hackathon | **Top 33 of 5,800+ teams** — outperformed Harvard, Stanford, Columbia finalists |
+>
+> ---
+>
+> ## 🚀 What I'm Building
+>
+> ### [CommuniEats](https://communieats-app.vercel.app) — Community-Powered Last-Mile Delivery
+> Reimagining delivery economics by matching orders with neighbors already traveling nearby.
+> - **Model:** 3-tier fulfillment — Traditional / Self-Pickup (10% off) / Community Pickup (30% off)
+> - - **Core problem:** Every order creates its own trip. CommuniEats eliminates redundant logistics.
+>   - - **Built with:** Claude Code + Vercel · Full PRD, trust model, and tradeoff series → [Communityeats repo](https://github.com/Jgupta14051994/Communityeats)
+>     - - **Live product:** [communieats-app.vercel.app](https://communieats-app.vercel.app)
+>      
+>       - ### [OpenClaw PM Workflow](https://github.com/Jgupta14051994/openclaw-pm-workflow) — Personal AI Agent for PMs
+>       - Built a personal AI assistant with OpenClaw to automate real PM tasks — zero developers, one evening.
+>       - - **What I built:** Connected OpenClaw to GitHub + web search, running on Gemini Flash · custom SOUL.md persona
+>         - - **Key insight:** Context Window Steering — a well-written system prompt does 95% of AI personalization
+>           - - **Tasks automated:** Competitive intel, PR/doc review, GitHub issue drafting, release notes
+>            
+>             - ---
+>
+> ## 📁 Featured Repos
+>
+> | Repo | What's Inside |
+> |---|---|
+> | [openclaw-pm-workflow](https://github.com/Jgupta14051994/openclaw-pm-workflow) | Personal AI agent for PM workflow — zero developers, one evening |
+> | [Communityeats](https://github.com/Jgupta14051994/Communityeats) | Full product case study — PRD, trust model, incentive design, prioritization decisions |
+> | [product-management-toolkit](https://github.com/Jgupta14051994/product-management-toolkit) | RICE scoring, PRD templates, OKRs, user interview guides, decision logs |
+> | [AI-Discover](https://github.com/Jgupta14051994/AI-Discover) | AI tool discovery platform — spec, evaluation framework, integration patterns |
+> | [communieats](https://github.com/Jgupta14051994/communieats) | Full-stack live app built with Claude Code + Vercel + Next.js |
+>
+> ---
+>
+> ## 🧠 Expertise
+>
+> - **AI & LLM Products** — Prompt engineering, LLM-powered discovery, context window steering, AI evals
+> - - **Checkout & Revenue Growth** — Upsell suites, AOV optimization, gift cards, order editing
+>   - - **0→1 Launches** — PRDs, user research, experimentation, cross-functional delivery
+>     - - **Enterprise Platforms** — Roadmap ownership for Fortune 500 clients (procurement, SaaS, supply chain)
+>       - - **Funnel Analytics** — A/B testing, OKRs, BigQuery, Amplitude, Looker, SQL
+>        
+>         - **Tools:** Figma · Jira · Confluence · Amplitude · Looker · BigQuery · SQL · Claude Code · OpenAI · Vercel · Supabase
+>        
+>         - ---
+>
+> ## 💼 Experience
+>
+> | Company | Role | Period |
+> |---|---|---|
+> | **Maxwood Furniture** | Product Manager | Oct 2024 – Present |
+> | RI International | Project Manager | Nov 2023 – May 2024 |
+> | IGT | Product Owner | Jul – Dec 2022 |
+> | GEP Worldwide | Sr. Associate PM | Jan 2019 – Aug 2021 |
+> | Kotak Securities | Assistant Manager (Product) | Aug 2016 – Aug 2017 |
+>
+> Previously shipped products in **healthcare, gaming, fintech, procurement, and supply chain** — giving me a rare cross-domain lens.
+>
+> ---
+>
+> ## 🏅 Recognition
+>
+> - 🥇 **Influential Women in Product & Technology 2026**
+> - - 🏆 **PMI Global Hackathon Winner** — Top 33 of 5,800+ teams (North America)
+>   - - 🎓 **MBA Gold Medalist** — SIES College of Management Studies
+>     - - 📰 **Founder:** *Product in the AI Era* newsletter — 800+ global practitioners
+>      
+>       - ---
+>
+> ## 📖 PM Philosophy
+>
+> **Problem first, solution second.** I spent 3 iterations just framing the trust problem in CommuniEats before writing a single line of spec.
+>
+> **Data over gut.** Every roadmap decision is anchored in analytics, user research, and experimentation — not assumptions.
+>
+> **Execution is getting cheaper. Thinking isn't.** The PM who can read between the metrics and decide *what* to build is the compounding advantage.
+>
+> **Assumptions are liabilities until tested.** Every decision log I write ends with: *"What would prove this wrong?"*
+>
+> ---
+>
+> ## 📚 Currently Reading
+>
+> - *Inspired* — Marty Cagan
+> - - *The Mom Test* — Rob Fitzpatrick
+>   - - *Lean Product Playbook* — Dan Olsen
+>    
+>     - ---
+>
+> Open to **senior PM roles, AI product collaborations, and conversations** about marketplace dynamics, trust models, and community-driven products.
