@@ -8,20 +8,6 @@
 >
 > ---
 >
-> ## 🏆 Impact Highlights
->
-> | Metric | Result |
-> |---|---|
-> | Black Friday YoY Revenue Growth | **+54%** at Maxwood Furniture |
-> | Monthly Users Reached | **1.78M** via e-commerce platform |
-> | Incremental Revenue Shipped | **$100K+** from upsell suite |
-> | Fortune 500 Clients Served | **10+** at GEP Worldwide |
-> | Customer Interviews Run | **50+** at GEP |
-> | Newsletter Subscribers | **800+** practitioners (Product in the AI Era) |
-> | PMI Global Hackathon | **Top 33 of 5,800+ teams** — outperformed Harvard, Stanford, Columbia finalists |
->
-> ---
->
 > ## 🚀 What I'm Building
 >
 > ### [CommuniEats](https://communieats-app.vercel.app) — Community-Powered Last-Mile Delivery
