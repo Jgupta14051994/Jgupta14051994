@@ -98,12 +98,4 @@
 >
 > ---
 >
-> ## 📚 Currently Reading
->
-> - *Inspired* — Marty Cagan
-> - - *The Mom Test* — Rob Fitzpatrick
->   - - *Lean Product Playbook* — Dan Olsen
->    
->     - ---
->
 > Open to **senior PM roles, AI product collaborations, and conversations** about marketplace dynamics, trust models, and community-driven products.
