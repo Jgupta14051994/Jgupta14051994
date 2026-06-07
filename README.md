@@ -55,7 +55,7 @@
 > |---|---|---|
 > | **Maxwood Furniture** | Product Manager | Oct 2024 – Present |
 > | RI International | Project Manager | Nov 2023 – May 2024 |
-> | IGT | Product Owner | Jul – Dec 2022 |
+> | IGT | Product Manager | Jul – Dec 2022 |
 > | GEP Worldwide | Sr. Associate PM | Jan 2019 – Aug 2021 |
 > | Kotak Securities | Assistant Manager (Product) | Aug 2016 – Aug 2017 |
 >
