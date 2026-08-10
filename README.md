@@ -34,6 +34,7 @@
 > | [product-management-toolkit](https://github.com/Jgupta14051994/product-management-toolkit) | RICE scoring, PRD templates, OKRs, user interview guides, decision logs |
 > | [AI-Discover](https://github.com/Jgupta14051994/AI-Discover) | AI tool discovery platform — spec, evaluation framework, integration patterns |
 > | [communieats](https://github.com/Jgupta14051994/communieats) | Full-stack live app built with Claude Code + Vercel + Next.js |
+> | [ai-sidekick-for-product-managers](https://github.com/Jgupta14051994/ai-sidekick-for-product-managers) | Custom GPT covering the full AI PM workflow: PRDs, eval rubrics, model selection, and stakeholder comms |
 >
 > ---
 >
