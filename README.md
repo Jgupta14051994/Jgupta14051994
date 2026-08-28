@@ -10,18 +10,24 @@
 >
 > ## 🚀 What I'm Building
 >
+> ### [Sidekick](https://lnkd.in/eGyBYUWd) — Custom GPT for AI Feature Evaluation
+> Built to help PMs work through the parts of a PRD that are easy to skip when moving fast — model tradeoffs, failure modes, and decisions you'd otherwise gloss over. Crossed 100+ chats since it launched a few weeks ago.
+> - **What it does:** Pushes back instead of just agreeing — e.g., separates "I had a stressful day" (current emotion) from "I want something calming" (desired outcome) in a mood-based recommendation PRD, or asks which Gemini variant (Flash vs. Pro) and argues for starting with the cheaper one until eval data proves it's not enough
+> - - **Key insight:** Not just writing the PRD for you — making you defend the decisions you were about to skip
+> - - **Try it:** [Sidekick GPT](https://lnkd.in/eGyBYUWd)
+>
 > ### [CommuniEats](https://communieats-app.vercel.app) — Community-Powered Last-Mile Delivery
 > Reimagining delivery economics by matching orders with neighbors already traveling nearby.
 > - **Model:** 3-tier fulfillment — Traditional / Self-Pickup (10% off) / Community Pickup (30% off)
 > - - **Core problem:** Every order creates its own trip. CommuniEats eliminates redundant logistics.
->   - - **Built with:** Claude Code + Vercel · Full PRD, trust model, and tradeoff series → [Communityeats repo](https://github.com/Jgupta14051994/Communityeats)
->     - - **Live product:** [communieats-app.vercel.app](https://communieats-app.vercel.app)
->      
->       - ### [OpenClaw PM Workflow](https://github.com/Jgupta14051994/openclaw-pm-workflow) — Personal AI Agent for PMs
->       - Built a personal AI assistant with OpenClaw to automate real PM tasks — zero developers, one evening.
->       - - **What I built:** Connected OpenClaw to GitHub + web search, running on Gemini Flash · custom SOUL.md persona
->         - - **Key insight:** Context Window Steering — a well-written system prompt does 95% of AI personalization
->           - - **Tasks automated:** Competitive intel, PR/doc review, GitHub issue drafting, release notes
+> - - **Built with:** Claude Code + Vercel · Full PRD, trust model, and tradeoff series → [Communityeats repo](https://github.com/Jgupta14051994/Communityeats)
+> - - **Live product:** [communieats-app.vercel.app](https://communieats-app.vercel.app)
+>
+> ### [OpenClaw PM Workflow](https://github.com/Jgupta14051994/openclaw-pm-workflow) — Personal AI Agent for PMs
+> Built a personal AI assistant with OpenClaw to automate real PM tasks — zero developers, one evening.
+> - **What I built:** Connected OpenClaw to GitHub + web search, running on Gemini Flash · custom SOUL.md persona
+> - - **Key insight:** Context Window Steering — a well-written system prompt does 95% of AI personalization
+> - - **Tasks automated:** Competitive intel, PR/doc review, GitHub issue drafting, release notes
 >            
 >             - ---
 >
