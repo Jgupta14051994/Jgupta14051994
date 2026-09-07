@@ -4,7 +4,7 @@
 
 > 7+ years building enterprise SaaS, AI-powered features, and consumer products across D2C and Fortune 500 platforms.
 >
-> San Francisco, CA · [Portfolio](https://jyoti-builds-scale.base44.app) · [LinkedIn](https://linkedin.com/in/jyotigupta7) · [Newsletter](https://lnkd.in/efsRBVVQ) · jyotirgupta1405@gmail.com
+> San Francisco, CA · [Portfolio](https://www.jyotirgupta.com) · [LinkedIn](https://linkedin.com/in/jyotigupta7) · [Newsletter](https://lnkd.in/efsRBVVQ) · jyotirgupta1405@gmail.com
 >
 > ---
 >
